@@ -7,6 +7,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/bootstrap": "^5.0.15",
+    "bootstrap": "^5.0.1",
     "mongodb": "^3.5.9",
     "next": "latest",
     "react": "^16.13.1",
